@@ -176,14 +176,14 @@ const Roadmap = () =>{
         </Box>
         <Box>
         <OptionContainer>
-            <OptionBox onClick={handleHireClick}> {/* Add onClick here */}
+            <OptionBox > {/* Add onClick here */}
               <OptionImage src={Image1} alt="Personal Trainer" />
               <OptionText>
                 <h3>Hire</h3>
                 <p>a Personal Trainer</p>
               </OptionText>
             </OptionBox>
-            <OptionBox onClick={handleInterviewClick}>
+            <OptionBox >
               <OptionImage src={Image2} alt="Virtual Interview" />
               <OptionText>
                 <h3>Continue</h3>

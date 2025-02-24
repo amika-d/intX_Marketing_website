@@ -135,28 +135,28 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="https://facebook.com"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
             >
               <Facebook />
             </a>
             <a
-              href="https://instagram.com"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
             >
               <Instagram />
             </a>
             <a
-              href="https://twitter.com"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
             >
               <Twitter />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/company/intxapp/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -167,7 +167,7 @@ const Footer = () => {
         <MenuItems>
           <Item onClick={() => scrollTo("home")}>Home</Item>
           <Item onClick={() => scrollTo("about")}>About</Item>
-          <Item onClick={() => scrollTo("Roadmap")}>Roadmap</Item>
+          <Item onClick={() => scrollTo("Roadmap")}>Services</Item>
           <Item onClick={() => scrollTo("faq")}>Faq</Item>
         </MenuItems>
       </Container>

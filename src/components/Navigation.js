@@ -14,16 +14,18 @@ const Section = styled.section`
 `;
 
 const NavContainer = styled.nav`
-  width: 85%; /* Space on both sides */
+  width: 75%; /* Reduce width to 75% */
+  height: 20px; /* Increase height */
   background-color: #fff8e6; /* Yellow background for the navbar */
   border-radius: 15px; /* Rounded corners */
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5rem 2rem;
+  padding: 1rem 2rem; /* Adjust padding */
 
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 `;
+
 
 const Logo = styled.div`
   display: flex;
@@ -77,8 +79,11 @@ const LoginButton = styled.button`
 const Navigation = () => {
 
   const scrollTo = (id) => {
-       let element = document.getElementById(id);
-  }
+    let element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  };
 
   const navigate = useNavigate(); // Initialize navigate
   
@@ -97,13 +102,13 @@ const Navigation = () => {
         {/* Menu Items */}
         <Menu>
           <MenuItem onClick={() => scrollTo("home")}>Home</MenuItem>
+          <MenuItem onClick={() => scrollTo("about")}>About Us</MenuItem>
           <MenuItem onClick={() => scrollTo("Roadmap")}>Services</MenuItem>
-          <MenuItem>About Us</MenuItem>
           <MenuItem onClick={() => scrollTo("faq")}>FAQ</MenuItem>
         </Menu>
 
         {/* Login Button */}
-        <LoginButton onClick={handleLoginClick}>Log In</LoginButton>
+        {/* <LoginButton onClick={handleLoginClick}>Log In</LoginButton> */}
       </NavContainer>
     </Section>
   );
