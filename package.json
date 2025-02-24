@@ -2,6 +2,8 @@
   "name": "the-weirdos-starter-code",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://amika-d.github.io/intX_Marketing_website",
+
   "dependencies": {
     "@fontsource/akaya-telivigala": "^4.5.2",
     "@fontsource/sora": "^4.5.3",
