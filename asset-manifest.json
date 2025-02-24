@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/amika-d/intX_Marketing_website.git/static/css/main.173305ab.css",
-    "main.js": "/amika-d/intX_Marketing_website.git/static/js/main.b1a7dbe8.js",
-    "static/media/Avatars.png": "/amika-d/intX_Marketing_website.git/static/media/Avatars.eef8e4814a812cc00c71.png",
-    "static/media/Person 2.png": "/amika-d/intX_Marketing_website.git/static/media/Person 2.1a0f795b53f0fb83ed83.png",
-    "static/media/Person 1.png": "/amika-d/intX_Marketing_website.git/static/media/Person 1.b7d48b1283f1d258a101.png",
-    "static/media/Thasara.png": "/amika-d/intX_Marketing_website.git/static/media/Thasara.c43a04e62a4c289e3d7b.png",
-    "static/media/akaya-telivigala-all-400-normal.woff": "/amika-d/intX_Marketing_website.git/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
-    "static/media/Feature 1.png": "/amika-d/intX_Marketing_website.git/static/media/Feature 1.131f5c2b1fd05cdf3322.png",
-    "static/media/Feature 2.png": "/amika-d/intX_Marketing_website.git/static/media/Feature 2.9b8bfd9eaf40edc3f893.png",
-    "static/media/Feature 3.png": "/amika-d/intX_Marketing_website.git/static/media/Feature 3.ad9f727bedbc34b5ed2d.png",
-    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/amika-d/intX_Marketing_website.git/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
-    "static/media/akaya-telivigala-latin-400-normal.woff2": "/amika-d/intX_Marketing_website.git/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
-    "static/media/sora-all-400-normal.woff": "/amika-d/intX_Marketing_website.git/static/media/sora-all-400-normal.4e0eb869ce00863294f7.woff",
-    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/amika-d/intX_Marketing_website.git/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
-    "static/media/sora-latin-400-normal.woff2": "/amika-d/intX_Marketing_website.git/static/media/sora-latin-400-normal.a12f18b2fa36ee4a1216.woff2",
-    "static/media/sora-latin-ext-400-normal.woff2": "/amika-d/intX_Marketing_website.git/static/media/sora-latin-ext-400-normal.256bd69d954f04ef5548.woff2",
-    "static/media/Arrow.svg": "/amika-d/intX_Marketing_website.git/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
-    "index.html": "/amika-d/intX_Marketing_website.git/index.html",
-    "main.173305ab.css.map": "/amika-d/intX_Marketing_website.git/static/css/main.173305ab.css.map",
-    "main.b1a7dbe8.js.map": "/amika-d/intX_Marketing_website.git/static/js/main.b1a7dbe8.js.map"
+    "main.css": "/intX_Marketing_website/static/css/main.046ed74e.css",
+    "main.js": "/intX_Marketing_website/static/js/main.ded7488c.js",
+    "static/media/Avatars.png": "/intX_Marketing_website/static/media/Avatars.eef8e4814a812cc00c71.png",
+    "static/media/Person 2.png": "/intX_Marketing_website/static/media/Person 2.1a0f795b53f0fb83ed83.png",
+    "static/media/Person 1.png": "/intX_Marketing_website/static/media/Person 1.b7d48b1283f1d258a101.png",
+    "static/media/Thasara.png": "/intX_Marketing_website/static/media/Thasara.c43a04e62a4c289e3d7b.png",
+    "static/media/akaya-telivigala-all-400-normal.woff": "/intX_Marketing_website/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
+    "static/media/Feature 1.png": "/intX_Marketing_website/static/media/Feature 1.131f5c2b1fd05cdf3322.png",
+    "static/media/Feature 2.png": "/intX_Marketing_website/static/media/Feature 2.9b8bfd9eaf40edc3f893.png",
+    "static/media/Feature 3.png": "/intX_Marketing_website/static/media/Feature 3.ad9f727bedbc34b5ed2d.png",
+    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/intX_Marketing_website/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
+    "static/media/akaya-telivigala-latin-400-normal.woff2": "/intX_Marketing_website/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/sora-all-400-normal.woff": "/intX_Marketing_website/static/media/sora-all-400-normal.4e0eb869ce00863294f7.woff",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/intX_Marketing_website/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
+    "static/media/sora-latin-400-normal.woff2": "/intX_Marketing_website/static/media/sora-latin-400-normal.a12f18b2fa36ee4a1216.woff2",
+    "static/media/sora-latin-ext-400-normal.woff2": "/intX_Marketing_website/static/media/sora-latin-ext-400-normal.256bd69d954f04ef5548.woff2",
+    "static/media/Arrow.svg": "/intX_Marketing_website/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
+    "index.html": "/intX_Marketing_website/index.html",
+    "main.046ed74e.css.map": "/intX_Marketing_website/static/css/main.046ed74e.css.map",
+    "main.ded7488c.js.map": "/intX_Marketing_website/static/js/main.ded7488c.js.map"
   },
   "entrypoints": [
-    "static/css/main.173305ab.css",
-    "static/js/main.b1a7dbe8.js"
+    "static/css/main.046ed74e.css",
+    "static/js/main.ded7488c.js"
   ]
 }
